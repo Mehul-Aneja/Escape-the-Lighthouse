@@ -1,7 +1,7 @@
 Author: Mehul Aneja
 Date of Creation: 26 October 2022
 Music Credits: "Scary Forest" by Serge Quadrado
-Art Credits: ...
+Art Credits: https://abbaraeldies.artstation.com/
 
 HOW TO PLAY:
 Start off at index.html and keep making choices as per the narrative. 
